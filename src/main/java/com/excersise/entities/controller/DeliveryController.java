@@ -31,6 +31,11 @@ public class DeliveryController {
     return new ResponseEntity<List<Delivery>>(deliveries, HttpStatus.OK);
   }
 
+  @GetMapping
+  void getOranges(){
+
+  }
+
 
 
 }
