@@ -33,6 +33,9 @@ public class DeliveryController {
 
   @GetMapping
   void getOranges(){
+    String orange;
+    String name;
+    int counter;
 
   }
 
