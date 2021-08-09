@@ -7,4 +7,6 @@ import lombok.Data;
 @Entity
 public class Flower extends Plant {
   private String color;
+  
+  private String name;
 }
