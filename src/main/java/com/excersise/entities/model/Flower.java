@@ -10,4 +10,5 @@ public class Flower extends Plant {
   
   private String name;
   private String origin;
+  private int qty;
 }
