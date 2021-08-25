@@ -6,4 +6,5 @@ public class Truck {
     private String animalType;
     private String type;
     private String type2;
+    private String type3;
 }
