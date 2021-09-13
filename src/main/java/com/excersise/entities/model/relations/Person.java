@@ -7,6 +7,7 @@ public class Person {
   private int age;
   private String name;
   private String address;
+  private int phone;
 
   public Long getId() {
     return id;
