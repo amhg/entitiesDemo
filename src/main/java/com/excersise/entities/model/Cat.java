@@ -6,6 +6,7 @@ public class Cat {
     private int age;
     private String type;
     private String owner;
+    private String color;
 
     public String getName() {
         return name;
