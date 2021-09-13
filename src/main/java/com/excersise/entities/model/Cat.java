@@ -7,6 +7,7 @@ public class Cat {
     private String type;
     private String owner;
     private String color;
+    private String color2;
 
     public String getName() {
         return name;
