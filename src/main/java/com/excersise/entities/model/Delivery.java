@@ -44,13 +44,11 @@ public class Delivery {
     this.address = address;
     this.deliveryTime = deliveryTime;
   }
-
+/*
   public Delivery() {
 
   }
+  */
 }
 
-
-// added CascadeType.REMOVE to automatically clear any associated plants when removed
-//cascade = CascadeType.REMOVE
 
